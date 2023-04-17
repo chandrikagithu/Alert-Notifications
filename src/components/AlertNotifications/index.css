@@ -1,0 +1,79 @@
+/* Write your CSS here */
+.notification-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0px;
+}
+.alert-notification {
+  color: #0f172a;
+  font-family: 'Roboto';
+  font-size: 32px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+}
+.left-container {
+  display: flex;
+}
+.success {
+  display: flex;
+  align-items: center;
+}
+.react-icon {
+  font-size: 30px;
+  color: #2dca73;
+  margin-right: 10px;
+  margin-top: 0px;
+}
+.title1 {
+  color: #2dca73;
+  padding-bottom: 15px;
+  font-family: 'Roboto';
+}
+.status {
+  margin-top: 40px;
+}
+.description {
+  color: #64748b;
+  font-weight: 600;
+  font-family: 'Roboto';
+}
+.x-mark {
+  font-size: 25px;
+}
+.title2 {
+  color: #ff0b37;
+  padding-bottom: 15px;
+  font-family: 'Roboto';
+}
+.react-icon2 {
+  font-size: 30px;
+  color: #ff0b37;
+  margin-right: 10px;
+  margin-top: 0px;
+}
+.title3 {
+  color: #ffb800;
+  padding-bottom: 15px;
+  font-family: 'Roboto';
+}
+.react-icon3 {
+  font-size: 30px;
+  color: #ffb800;
+  margin-right: 10px;
+  margin-top: 0px;
+}
+.title4 {
+  color: #0f81e0;
+  padding-bottom: 15px;
+  font-family: 'Roboto';
+}
+.react-icon4 {
+  font-size: 30px;
+  color: #0f81e0;
+  margin-right: 10px;
+  margin-top: 0px;
+}

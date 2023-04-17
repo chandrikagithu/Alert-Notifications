@@ -1,0 +1,16 @@
+/* Write your CSS here */
+
+.list {
+  display: flex;
+  list-style-type: none;
+  border: 1px solid #475569;
+  margin: 10px;
+  border-radius: 5px;
+  width: 70%;
+  line-height: 10px;
+  padding-top: 0px;
+  padding-bottom: 10px;
+  justify-content: space-between;
+  align-items: center;
+  padding-right: 30px;
+}
